@@ -83,7 +83,7 @@ Check out the [user manual](/docs/user_manual.pdf) for app usage instructions
 
 ## Contact
 
-Nader AbdAlGhani - nader_abdelghani@hotmail.com
+Nader AbdAlGhani - naderabdalghani@outlook.com
 
 <!-- ACKNOWLEDGEMENTS -->
 
